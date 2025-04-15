@@ -1,0 +1,146 @@
+
+body{
+    background-color: rgb(255, 176, 213);
+}
+h1{
+    font-family: 'Courier New';
+    color: rgb(133, 4, 34);
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+    border: 3px dashed rgb(193, 24, 89);
+    text-align: center;
+    
+}
+h2{
+    font-family:cursive
+;
+    text-align: center;
+    color: rgb(202, 6, 71);
+    text-decoration:double;
+    margin: 10px;
+}
+h3{
+    text-align: center;
+    color: rgb(132, 16, 18);
+    margin: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h4{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(115, 15, 15);
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+    color: rgb(48, 11, 99);
+    margin: 30px;
+    padding: 10px;
+    border: dotted rgb(0, 0, 0);
+    background-color: rgb(231, 196, 218);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    border: 4px solid rgb(180, 0, 102);
+    padding: 5px;
+    
+}
+a{
+    color: chocolate;
+}
+ul{
+    
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(250, 237, 220);
+    padding: 10px;
+    color: rgb(165, 56, 114);
+    
+}
+.first{
+    text-align: center;
+    text-align: center;
+    background-color: rgb(255, 214, 221);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
+}
+
+span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+  
+
+    background-color: rgb(247, 140, 193);
+}
+.special-image img {
+    width: aotu;
+    height: 180px;
+    display: inline-block;
+  }
+
+.Q{
+    width:500px;
+    height:aotu;
+    border: 2px dashed rgb(223, 16, 102);
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 5px;
+}
+
+.last{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(76, 4, 4);
+    background-color: rgb(255, 214, 221);
+    padding: 10px;
+    margin: 10px;
+    border: dotted rgb(255, 235, 235);
+    
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+  }
+  .card {
+    width: 600px;
+    background: #ffdddd;
+    padding: 40px;
+    border: 10px solid #f883b4;
+    border-radius: 20px;
+    padding: 16px;
+    margin: 20px;
+  }
+ 
+ .game{
+   
+    border: 2px dashed rgb(223, 16, 102);
+    padding: 5px;
+    text-align: center;
+    margin: 5px;
+    background-color: rgb(250, 205, 214);}
+.H{
+    border: 0cap;
+ width:80px;
+
+}
+  
+.bee{
+    width: 150px;
+    height: aotu;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0px;
+    padding: 5px;
+}
+ 
