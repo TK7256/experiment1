@@ -1,0 +1,158 @@
+
+        
+@font-face {
+    
+    src: url("../assets/fonts/8-bit-operator/Starlight.ttf");
+    font-family: X;
+}
+
+@font-face {
+    font-family: 'The font';
+    src: url("../assets/fonts/8-bit-operator/256BYTES.TTF");
+    
+}
+body {
+    background-color: #f8d0d0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+h1 {
+    font-size: 170px;
+    color: #823939;
+    font-family: X;
+}
+h2 {
+    color: #ab7575;
+    font-family: 'The font';
+
+}
+.bee{
+width: 150px;
+height: aotu;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border: 0px;
+padding: 5px;
+
+}
+.game {
+    font-size: 18px;
+    color: #666;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #823939;
+    font-size: 20px;
+}
+.angr {
+    border: 0px;
+    width: 50%;
+    height: aotu;
+    margin: 0 auto;
+    border: 2px dashed rgb(223, 16, 102);
+    padding: 5px;
+    position:absolute;
+    top:800px;
+    left:0px;
+}
+.plan {
+    border: 0px;
+    width: aotu;
+    height: 45%;
+    margin: 0 auto;
+    border: 2px dashed rgb(214, 90, 141);
+    padding: 5px;
+    position:absolute;
+    top:1000px;
+    right:100px;
+
+}
+.a{
+    border: 0px;
+    width: 70%;
+    height: aotu;
+    margin: 0 auto;
+    border: 2px dashed rgb(223, 16, 102);
+    padding: 5px;
+    position:absolute;
+    top:1400px;
+    left:100px;
+}
+.m {
+
+    border: 0px;
+    width: 50%;
+    height: aotu;
+    margin: 0 auto;
+    border: 2px dashed rgb(223, 16, 102);
+    padding: 5px;
+    position:absolute;
+    top:1700px;
+    left:50px;
+}
+
+.be:hover {
+    transform: scale(3.3);
+    cursor: pointer;
+    border-radius: 50%;
+    transform: scale(3,3) rotateZ(20deg);
+  }
+.be{
+    width: 150px;
+    height: aotu;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0px;
+    padding: 5px;
+}
+
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #823939;
+    font-size: 20px;
+    padding: 50px;
+    position: absolute;
+    top: 2000px;
+    left:200px;
+    right:200px;
+    
+}
+
+.inm{
+    z-index: -1;
+    width: 10%;
+    height: 240%;
+    display: block;
+    border: 0px;
+    position:absolute;
+    top: 0px;
+    right: 10px;
+    mix-blend-mode: overlay;
+}
+
+.pink{
+    z-index: -1;
+    width: 20%;
+    height: 150%;
+    height: aotu;
+    display: block;
+    border: 0px;
+    padding: 5px;
+    position:absolute;
+    top: 800px;
+    left: 100px;
+    mix-blend-mode: screen;
+}
+h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #ffecec;
+    width: 20%;
+    height: 150%;
+    font-size: 20px;
+    position:absolute;
+    top: 150px;
+    
+}
